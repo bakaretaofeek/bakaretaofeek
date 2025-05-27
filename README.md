@@ -13,7 +13,7 @@ I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, an
 ---
 
 ### 🛠 Skills & Tools
-- **Languages & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, Excel, Jupyter Notebooks  
+- **Languages & Tools:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel, R.  
 - **Core Skills:** Exploratory Data Analysis (EDA), Data Wrangling, Dashboards, Data Storytelling, Statistics
 
 ---
