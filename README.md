@@ -1,51 +1,57 @@
-# Introduction to GitHub
+## 👋 Hi there, I'm Bakare Taofeek Oluwatobiloba
 
-_Get started using GitHub in less than an hour._
-
-## Welcome
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
-
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
-
-### How to start this exercise
-
-1. Right-click **Copy Exercise** and open the link in a new tab.
-
-   <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
-   </a>
-
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.chttps://github.com/bakaretaofeek/bakaretaofeek/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
-
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
-
-   <a id="start-exercise" href="https://github.com/bakaretaofeek/bakaretaofeek/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
-   </a>
-
-> [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, and currently a **Data Analysis Instructor**. I help aspiring analysts gain confidence with data and build strong portfolios. I’m passionate about turning data into meaningful insights and making analysis accessible to everyone.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### 💼 What I Do
+- 📊 Teach data analysis using **Excel**, **SQL**, **Python**, and **Power BI**
+- 🧹 Clean, analyze, and visualize real-world data
+- 🧠 Translate business questions into data-driven solutions
+- 🧭 Mentor beginner data analysts and lead project-based learning
+
+---
+
+### 🛠 Skills & Tools
+- **Languages & Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, Excel, Jupyter Notebooks  
+- **Core Skills:** Exploratory Data Analysis (EDA), Data Wrangling, Dashboards, Data Storytelling, Statistics
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Sales Analysis Dashboard](https://github.com/yourusername/sales-analysis) | An interactive Power BI dashboard analyzing electronics sales over a year. | Power BI |
+| [Customer Segmentation](https://github.com/yourusername/customer-segmentation) | Clustered customers using demographics and purchase behavior. | Python, Scikit-learn |
+| [SQL Insights – Hotel Bookings](https://github.com/yourusername/sql-hotel-bookings) | Wrote SQL queries to generate KPIs from a bookings database. | MySQL |
+| [Excel Analytics Report](https://github.com/yourusername/excel-project) | Analyzed and visualized company performance using pivot tables and charts. | Excel |
+
+> 🔗 *Explore more in the pinned repositories section!*
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🐦 [Twitter/X](https://x.com/yourhandle)
+- 💬 [WhatsApp](https://wa.me/2348123456789)
+- 🌐 [Portfolio Website](https://yourwebsite.com) *(if any)*
+
+---
+
+### 🌱 Currently Learning
+- Advanced data storytelling techniques
+- Streamlit & Plotly for building interactive apps
+- Data engineering foundations
+
+---
+
+### 🤝 Let's Collaborate
+Open to:
+- 💻 Freelance projects
+- 🧑‍🏫 Data training/workshops
+- 🤝 Collaborations and mentoring
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Don’t forget to check out my projects and connect with me!*
