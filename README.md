@@ -5,7 +5,7 @@ I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, an
 ---
 
 ### 💼 What I Do
-- 📊 Teach data analysis using **Excel**, **SQL**, **Python**, and **Power BI**
+- 📊 Teach data analysis using **Excel**, **SQL**, **Python**, **R** and **Power BI**
 - 🧹 Clean, analyze, and visualize real-world data
 - 🧠 Translate business questions into data-driven solutions
 - 🧭 Mentor beginner data analysts and lead project-based learning
@@ -14,7 +14,7 @@ I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, an
 
 ### 🛠 Skills & Tools
 - **Languages & Tools:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Excel, R.  
-- **Core Skills:** Exploratory Data Analysis (EDA), Data Wrangling, Dashboards, Data Storytelling, Statistics
+- **Core Skills:** Exploratory Data Analysis (EDA), Data Wrangling, Dashboards, Data Storytelling, Statistical Analysis.
 
 ---
 
@@ -32,10 +32,10 @@ I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, an
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter/X](https://x.com/yourhandle)
-- 💬 [WhatsApp](https://wa.me/2348123456789)
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if any)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/taofeekbakr/)
+- 🐦 [Twitter/X](https://x.com/BakareTaofeekO4)
+- 💬 [WhatsApp](https://wa.me/2348166101888)
+- 🌐 [Portfolio Website](https://yourwebsite.com)
 
 ---
 
