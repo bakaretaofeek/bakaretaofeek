@@ -20,7 +20,7 @@ I'm a **Statistics graduate**, a former **Data Analysis trainee and intern**, an
 - [LinkedIn](https://www.linkedin.com/in/taofeekbakr/)
 - [Twitter/X](https://x.com/BakareTaofeekO4)
 - [WhatsApp](https://wa.me/2348166101888)
-- [Portfolio Website](bakaretaofeek.netlify.app)
+- [Portfolio Website](http://bakaretaofeek.netlify.app/)
 
 ---
 
